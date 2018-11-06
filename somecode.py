@@ -7,6 +7,6 @@ print('perimeter = {}'.format(perimeter))
 
 input('Press any key to continue')
 
-a = 3+7
+a = 3+8-7
 
 b = 4+9
